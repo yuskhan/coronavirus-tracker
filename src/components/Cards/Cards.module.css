@@ -1,0 +1,17 @@
+.card{
+    width: max-width;
+    font-size: x-large;
+    margin: 2% 2%;
+}
+
+.cardHeader{
+    margin: 2px;
+}
+
+.flag{
+    margin: 4px;
+}
+
+.deck{
+    margin: 1% 2%;
+}
